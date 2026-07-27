@@ -1,4 +1,4 @@
-# Global Latin Music Expansion & Recommendation System
+# Expansão Global da Música Latina & Sistema de Recomendação
 **Um projeto End-to-End de Engenharia e Ciência de Dados focado na "Bolha Latina" no mercado fonográfico global.**
 
 ## Sobre o Projeto
